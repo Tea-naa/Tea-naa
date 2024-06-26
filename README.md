@@ -1,4 +1,10 @@
-## Hi there 👋
+#Tina Bajwa
+
+Experience
+
+- HTML
+- JavaScript
+- CSS
 
 <!--
 **Tea-naa/Tea-naa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
