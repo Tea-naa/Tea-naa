@@ -1,5 +1,7 @@
 #Tina Bajwa
 
+"Turning code into creativity, one bug at a time!"
+
 Experience
 
 - HTML
