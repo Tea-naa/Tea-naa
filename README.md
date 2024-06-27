@@ -38,6 +38,29 @@ EVENING ENTERTAINMENT GROUP | FORT WORTH, TX: 2021 – PRESENT
 - Expertly managed employee scheduling, menu knowledge, and sales accounting, effectively handling weekly revenue ranging from 80K to 100K.
 - Proactively planned and executed engaging events, securing 10K in monetary support from potential sponsors and achieving a significant 25% increase in attendance.
 
+Lead Esthetician
+
+BODYWERKS SPA | CHICAGO, IL: 2020 – 2021
+- Results-driven Medical Esthetician with a proven ability to build and maintain strong client relationships, drive repeat business, and contribute to revenue growth through innovative treatment implementation and effective customer database management.
+- Cultivated and nurtured relationships with key clients, leading to an impressive 45% increase in repeat business.
+- Served as a vital liaison between clients and internal teams, ensuring timely resolution of issues and maintaining exceptional customer
+satisfaction.
+- Played a crucial role in implementing new treatments and drafting treatment protocols, resulting in a notable 20% increase in revenue.
+- Developed and meticulously managed client databases, tracking and analyzing customer interactions and feedback to enhance service
+quality and client experience.
+- Managed and onboarded 10 team members by optimizing comprehensive training increasing retention rate by 55%.
+
+Hospitality Professional 
+
+EVENING ENTERTAINMENT GROUP | CHICAGO, IL: 2016 – 2019 
+- Dynamic hospitality professional skilled in multitasking, exceeding performance goals, and collaborating with cross-functional teams to enhance service delivery and customer satisfaction.
+- Demonstrated exceptional multitasking abilities in high-pressure, fast-paced environments, consistently delivering top-quality service.
+- Exceeded performance goals and targets, significantly increasing sales for the establishment and fostering repeat customers.
+- Collaborated effectively with cross-functional teams to address and resolve client issues, enhancing overall service delivery and customer
+experience.
+- Played a key role in the development and implementation of new customer service policies and procedures, resulting in a notable 15%
+increase in customer satisfaction.
+
 
 <!--
 **Tea-naa/Tea-naa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
