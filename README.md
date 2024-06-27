@@ -61,6 +61,19 @@ experience.
 - Played a key role in the development and implementation of new customer service policies and procedures, resulting in a notable 15%
 increase in customer satisfaction.
 
+## EDUCATION & TRAINING
+
+    UTA Bootcamp     | Software Engineer                                                                         Oct 2024
+
+    Bachelor of Arts | Advertising & Marketing Communications                                                    May 2012
+    Columbia College of Chicago
+
+CERTIFICATIONS
+
+    Certified Scrum Master Certification | Scrum Alliance                                                            2023
+    Get Started with Jara Certification | Coursera Project Network                                                   2023
+    Trello for Beginners Certification | Coursera Project Network                                                    2023
+
 
 <!--
 **Tea-naa/Tea-naa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
