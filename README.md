@@ -2,6 +2,8 @@
 
 "Turning code into creativity, one bug at a time!"
 
+Summary: Aspiring software engineer student with a strong foundation in computer science principles and hands-on experience in coding, debugging, and software development. Proficient in multiple programming languages including Python, Java, and C++, and familiar with web development technologies such as HTML, CSS, and JavaScript. Demonstrated ability to work collaboratively on team projects, with a keen interest in solving complex problems and developing innovative solutions. Actively seeking opportunities to apply academic knowledge to real-world applications and further develop technical skills in a professional setting.
+
 Experience
 
 - HTML
