@@ -4,7 +4,7 @@
 >Turning code into creativity, one bug at a time!
 
 ## Aspiring Software Engineer
-Aspiring software engineer student with a strong foundation in computer science principles and hands-on experience in coding, debugging, and software development. Proficient in multiple programming languages including Python, Java, and C++, and familiar with web development technologies such as HTML, CSS, and JavaScript. Demonstrated ability to work collaboratively on team projects, with a keen interest in solving complex problems and developing innovative solutions. Actively seeking opportunities to apply academic knowledge to real-world applications and further develop technical skills in a professional setting.
+Aspiring software engineer with a strong foundation in computer science principles and practical experience in web development. Proficient in JavaScript, HTML, CSS, Node.js, Express.js, and React. Experienced in containerization with Docker and cloud deployment on AWS. Demonstrated ability to collaborate effectively in team environments, solve complex problems, and deliver high-quality solutions. Eager to apply my academic knowledge and technical skills to contribute to innovative projects and grow professionally.
 
 ### CORE COMPETENCIES
 
