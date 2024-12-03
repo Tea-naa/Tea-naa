@@ -7,62 +7,68 @@
 Aspiring software engineer with a strong foundation in computer science principles and practical experience in web development. Proficient in JavaScript, HTML, CSS, Node.js, Express.js, and React. Experienced in containerization with Docker and cloud deployment on AWS. Demonstrated ability to collaborate effectively in team environments, solve complex problems, and deliver high-quality solutions. Eager to apply my academic knowledge and technical skills to contribute to innovative projects and grow professionally.
 
 ### CORE COMPETENCIES
-
- - HTML  - CSS  -  JavaScript    - Scrum Methodology Expertise    - Jira/Trello Proficiency    - Effective Team Communication    - Leadership and Motivation  - Agile Methodology Proficiency     - E-commerce Business Management    - Problem-Solving and Adaptability    - Data Analysis and Multitasking
+     - JavaScript  - React  - HTML  -CSS  - Agile Methodology Proficiency  - RESFTful API  - Node.js  - Express.js  - MySQL      - Bootstrap  - Docker  - Postman  - AWS  - Team Collaboration  - E-commerce Business Managment  - Git/ GitHub  
+     - Problem Solving & Adaptability  - Scalabe Architecture Development  - DevOps  - Customer Service Excellence
 
 ### PROFESSIONAL EXPERIENCE
-Founder & CEO
+Responsive Business Website Design
+
+QuickStart Inc. | Remote | 2024
+
+Built a professional website with responsive design, clear content, and strong collaboration.
+- Designed and built a responsive website using HTML, CSS, and Bootstrap to showcase business information.
+- Structured web pages with semantic HTML and styled them with advanced CSS techniques.
+- Incorporated Git and GitHub for version control and team collaboration.
 
 
-BAJ ENTERPRISE LLC | FORT WORTH, TX: 2022 – PRESENT 
-- Accomplished E-commerce Business Owner/Operator with a track record of driving revenue growth, building strong supplier
-relationships, and implementing effective strategies to enhance customer satisfaction and drive business success.
-- Established and managed an Amazon e-commerce business, generating over $8K in revenue within the first 3 months of operation.
-- Developed and nurtured strong relationships with key suppliers, resulting in an 18% reduction in product costs.
-- Identified and capitalized on new business opportunities through market research, contract negotiations, and strategic partnerships,
-achieving a 20% increase in profit margins.
-- Implemented an effective customer service strategy, resulting in a high satisfaction rate of 95%.
-- Analyzed customer feedback and implemented improvements to enhance the customer experience, leading to a 10% increase in sales.
-- Leveraged Amazon's analytics and reporting tools to optimize product listings, pricing, and marketing strategies, driving business growth
-and profitability.
+Search-Optimized Web Application
 
+QuickStart Inc. | Remote | 2024
 
-Hospitality Manager 
+Built a search-enabled website combining front-end interactivity with back-end database handling for efficient content discovery.
+- Developed a dynamic website featuring a fully functional search engine for data retrieval and filtering.
+- Utilized JavaScript to implement interactive front-end functionality and back-end programming for database integration.
+- Enhanced user experience with intuitive search capabilities and navigation.
 
-EVENING ENTERTAINMENT GROUP | FORT WORTH, TX: 2021 – PRESENT 
-- Experienced Hospitality Manager with a proven track record of driving sales growth, enhancing customer satisfaction, and optimizing operations in a fast-paced bar environment.
-- Successfully supervised a team of 15+ employees, leading to a remarkable 20% increase in sales and a notable 30% reduction in staff turnover.
-- Developed and implemented effective strategies to enhance customer satisfaction and retention, resulting in an impressive 90% satisfaction rate.
-- Demonstrated exceptional customer service skills by promptly addressing guest concerns and complaints, achieving a remarkable 95% positive resolution rate.
-- Expertly managed employee scheduling, menu knowledge, and sales accounting, effectively handling weekly revenue ranging from 80K to 100K.
-- Proactively planned and executed engaging events, securing 10K in monetary support from potential sponsors and achieving a significant 25% increase in attendance.
+Full-Stack Task Management Solution
 
-Lead Esthetician
+QuickStart Inc. | Remote | 2024
 
-BODYWERKS SPA | CHICAGO, IL: 2020 – 2021
-- Results-driven Medical Esthetician with a proven ability to build and maintain strong client relationships, drive repeat business, and contribute to revenue growth through innovative treatment implementation and effective customer database management.
-- Cultivated and nurtured relationships with key clients, leading to an impressive 45% increase in repeat business.
-- Served as a vital liaison between clients and internal teams, ensuring timely resolution of issues and maintaining exceptional customer
-satisfaction.
-- Played a crucial role in implementing new treatments and drafting treatment protocols, resulting in a notable 20% increase in revenue.
-- Developed and meticulously managed client databases, tracking and analyzing customer interactions and feedback to enhance service
-quality and client experience.
-- Managed and onboarded 10 team members by optimizing comprehensive training increasing retention rate by 55%.
+Built a full-stack CRUD to-do list app using React, Node.js, and Express, with secure user authentication and a user-friendly interface.
 
-Hospitality Professional 
+- Built a CRUD-based task management system using React, Node.js, and Express, allowing users to create, track, update, and complete tasks.
+- Implemented user authentication and role-based access for personalized task views and secure access.
+- Designed an intuitive UI with React components for seamless user interaction.
 
-EVENING ENTERTAINMENT GROUP | CHICAGO, IL: 2016 – 2019 
-- Dynamic hospitality professional skilled in multitasking, exceeding performance goals, and collaborating with cross-functional teams to enhance service delivery and customer satisfaction.
-- Demonstrated exceptional multitasking abilities in high-pressure, fast-paced environments, consistently delivering top-quality service.
-- Exceeded performance goals and targets, significantly increasing sales for the establishment and fostering repeat customers.
-- Collaborated effectively with cross-functional teams to address and resolve client issues, enhancing overall service delivery and customer
-experience.
-- Played a key role in the development and implementation of new customer service policies and procedures, resulting in a notable 15%
-increase in customer satisfaction.
+Scalable Node.js API Development
+
+QuickStart Inc. | Remote | 2024
+
+Developed a quiz application to manage categorized questions, emphasizing full-stack development and scalable design.
+
+- Built a scalable Node.js application using Express for server-side functionality.
+- Developed API routes for handling HTTP requests and database operations.
+- Implemented middleware to enhance application performance and security.
+
+### ADDITIONAL EXPERIENCE
+Founder / CEO
+
+Baj Enterprise LLC | Fort Worth, TX | 2022 - Present 
+
+- Spearheaded an e-commerce business by leveraging data analytics and market insights to optimize product listings and customer engagement, driving a 10% sales increase and managing a successful Amazon store.
+
+Hospitality Professional
+
+Evening Entertainment Group | Chicago, IL & Fort Worth, TX | 2016 - 2022
+
+- Experienced in delivering exceptional service in fast-paced environments, surpassing sales targets and improving customer satisfaction. Led team collaboration and mentored new hires, contributing to a 15% increase in satisfaction scores.
+
 
 ## EDUCATION & TRAINING
-
-    UTA Bootcamp     | Software Engineer                                                                         Oct 2024
+ 
+    QuickStart Bootcamp  | Software Engineer                                                                    Nov 2024
+    University of Texas at Arlington
+        - Completed rigorous bootcamp program, successfully passing all required courses and projects, demonstrating strong           commitment and technical proficiency in full-stack web development.
 
     Bachelor of Arts | Advertising & Marketing Communications                                                    May 2012
     Columbia College of Chicago
@@ -72,6 +78,9 @@ CERTIFICATIONS
     Certified Scrum Master Certification | Scrum Alliance                                                            2023
     Get Started with Jara Certification | Coursera Project Network                                                   2023
     Trello for Beginners Certification | Coursera Project Network                                                    2023
+    AWS Cloud Practitioner Essentials Certification | AWS                                                            2024
+    Get the most out of Confluence Certification | Atlassian                                                         2024
+    Getting Started with Docker | SimpliLearn                                                                        2024
 
 
 <!--
