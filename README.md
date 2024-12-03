@@ -8,8 +8,7 @@ Aspiring software engineer with a strong foundation in computer science principl
 
 ### CORE COMPETENCIES
 
-    - HTML    -  JavaScript    - Scrum Methodology Expertise    - Jira/Trello Proficiency    - Effective Team Communication    - Leadership and Motivation
-    - CSS     - Agile Methodology Proficiency     - E-commerce Business Management    - Problem-Solving and Adaptability    - Data Analysis and Multitasking
+ - HTML  - CSS  -  JavaScript    - Scrum Methodology Expertise    - Jira/Trello Proficiency    - Effective Team Communication    - Leadership and Motivation  - Agile Methodology Proficiency     - E-commerce Business Management    - Problem-Solving and Adaptability    - Data Analysis and Multitasking
 
 ### PROFESSIONAL EXPERIENCE
 Founder & CEO
