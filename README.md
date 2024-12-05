@@ -3,8 +3,8 @@
 
 >Turning code into creativity, one bug at a time!
 
-## Aspiring Software Engineer
-Aspiring software engineer with a strong foundation in computer science principles and practical experience in web development. Proficient in JavaScript, HTML, CSS, Node.js, Express.js, and React. Experienced in containerization with Docker and cloud deployment on AWS. Demonstrated ability to collaborate effectively in team environments, solve complex problems, and deliver high-quality solutions. Eager to apply my academic knowledge and technical skills to contribute to innovative projects and grow professionally.
+## Driven Software Engineer
+Driven software engineer with a strong foundation in computer science principles and practical experience in web development. Proficient in JavaScript, HTML, CSS, Node.js, Express.js, and React. Experienced in containerization with Docker and cloud deployment on AWS. Demonstrated ability to collaborate effectively in team environments, solve complex problems, and deliver high-quality solutions. Eager to apply my academic knowledge and technical skills to contribute to innovative projects and grow professionally.
 
 ### CORE COMPETENCIES
      - JavaScript  - React  - HTML  -CSS  - Agile Methodology Proficiency  - RESFTful API  - Node.js  - Express.js  - MySQL      - Bootstrap  - Docker  - Postman  - AWS  - Team Collaboration  - E-commerce Business Managment  - Git/ GitHub  
