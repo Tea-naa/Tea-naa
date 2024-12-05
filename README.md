@@ -1,7 +1,7 @@
 # Tina Bajwa
 ![images](https://github.com/Tea-naa/Tea-naa/assets/172461735/f536eb89-ab18-4929-91f0-1f4829fa48ce)
 
->Turning code into creativity, one bug at a time!
+>Full-Stack Developer | Bringing life to the web with JavaScript, APIs, and creativity.
 
 ## Driven Software Engineer
 Driven software engineer with a strong foundation in computer science principles and practical experience in web development. Proficient in JavaScript, HTML, CSS, Node.js, Express.js, and React. Experienced in containerization with Docker and cloud deployment on AWS. Demonstrated ability to collaborate effectively in team environments, solve complex problems, and deliver high-quality solutions. Eager to apply my academic knowledge and technical skills to contribute to innovative projects and grow professionally.
