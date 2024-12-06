@@ -1,5 +1,4 @@
 # Tina Bajwa
-![images](https://github.com/Tea-naa/Tea-naa/assets/172461735/f536eb89-ab18-4929-91f0-1f4829fa48ce)
 
 >Full-Stack Developer | Bringing life to the web with JavaScript, APIs, and creativity.
 
