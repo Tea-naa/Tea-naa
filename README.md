@@ -2,7 +2,7 @@
 
 >Site Reliability Engineer | Full Stack Developer | Infrastructure Enthusiast
 
-## Driven Software Engineer
+## Driven Site Reliability Engineer
 Site Reliability Engineer with hands-on experience building production-grade infrastructure and automating disaster recovery processes. Recently
 completed SRE internship developing high-availability WordPress architecture using Terraform, Ansible, Apache, and MySQL on DigitalOcean. Skilled in
 CI/CD pipelines, Linux system administration, environment provisioning, and multi-region deployments. Proven ability to automate SSL certificate
