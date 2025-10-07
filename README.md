@@ -39,18 +39,16 @@ Baj Enterprise LLC | 2022 - Present
 - Increased sales by 10% through data-driven optimization strategies and reduced operational costs by 18% through supplier relationship management.
 
 
-### ADDITIONAL EXPERIENCE
-Founder / CEO
-
-Baj Enterprise LLC | Fort Worth, TX | 2022 - Present 
-
-- Spearheaded an e-commerce business by leveraging data analytics and market insights to optimize product listings and customer engagement, driving a 10% sales increase and managing a successful Amazon store.
-
-Hospitality Professional
-
-Evening Entertainment Group | Chicago, IL & Fort Worth, TX | 2016 - 2022
-
-- Experienced in delivering exceptional service in fast-paced environments, surpassing sales targets and improving customer satisfaction. Led team collaboration and mentored new hires, contributing to a 15% increase in satisfaction scores.
+### TECHNICAL PROJECTS
+Task Management Web Application
+  - Technologies: React, Node.js, MySQL, REST APIs
+- Developed full-stack application with secure user authentication, role-based access control, and responsive UI design.
+- Built Node.js backend with comprehensive CRUD operations and MySQL database integration.
+  
+Quiz Application with Real-Time Updates
+  - Technologies: JavaScript, Node.js, Express.js, MySQL
+- Built dynamic quiz platform with user-generated content, category-based organization, and real-time question updates.
+- Implemented complete CRUD system for question management with scalable Express.js backend architecture.
 
 
 ## EDUCATION & TRAINING
