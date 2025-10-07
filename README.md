@@ -43,7 +43,7 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
     Site Reliability Engineering Intern | Addteq
     
     Converted a legacy WordPress site to high-availability architecture using Terraform & Ansible
-    Automated disaster recovery (reduced restore time from hours to ~15 minutes!)
+    Automated disaster recovery (reduced restore time from hours to minutes!)
     Deployed multi-region infrastructure and managed SSL automation
     Basically learned to love infrastructure automation 🛠️
 ## 🚀 What I'm Working On
