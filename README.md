@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tina!+👋;Site+Reliability+Engineer;Infrastructure+Automation+Enthusiast)](https://git.io/typing-svg)
 # Hi, I'm Tina! 👋
 > Site Reliability Engineer | Full Stack Developer | Infrastructure Enthusiast  
 
@@ -39,7 +40,15 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
 - Currently helping a friend build their business website (always learning!)  
 > “The best time to start was yesterday. The second best time is now.”
 >
-  
+![Tina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tea-naa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea-naa&layout=compact&theme=radical)
+
+
+
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
+
 
 <!--
 **Tea-naa/Tea-naa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
