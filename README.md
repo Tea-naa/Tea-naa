@@ -1,7 +1,7 @@
 # Tina Bajwa
 
 >Site Reliability Engineer | Full Stack Developer | Infrastructure Enthusiast
->Check out my porfolio! www.tina-bajwa.com
+ | Check out my porfolio! www.tina-bajwa.com
 
 ## Driven Site Reliability Engineer
 Site Reliability Engineer with hands-on experience building production-grade infrastructure and automating disaster recovery processes. Recently
