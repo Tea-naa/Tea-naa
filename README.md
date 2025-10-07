@@ -1,53 +1,43 @@
 # Tina Bajwa
 
->Full-Stack Developer | Bringing life to the web with JavaScript, APIs, and creativity.
+>Site Reliability Engineer | Full Stack Developer | Infrastructure Enthusiast
 
 ## Driven Software Engineer
-Driven software engineer with a strong foundation in computer science principles and practical experience in web development. Proficient in JavaScript, HTML, CSS, Node.js, Express.js, and React. Experienced in containerization with Docker and cloud deployment on AWS. Demonstrated ability to collaborate effectively in team environments, solve complex problems, and deliver high-quality solutions. Eager to apply my academic knowledge and technical skills to contribute to innovative projects and grow professionally.
+Site Reliability Engineer with hands-on experience building production-grade infrastructure and automating disaster recovery processes. Recently
+completed SRE internship developing high-availability WordPress architecture using Terraform, Ansible, Apache, and MySQL on DigitalOcean. Skilled in
+CI/CD pipelines, Linux system administration, environment provisioning, and multi-region deployments. Proven ability to automate SSL certificate
+renewals, implement load balancer failover, and create comprehensive testing workflows. Strong background in full-stack development enabling effective
+collaboration between development and operations teams.
 
 ### CORE COMPETENCIES
-     - JavaScript  - React  - HTML  -CSS  - Agile Methodology Proficiency  - RESFTful API  - Node.js  - Express.js  - MySQL      - Bootstrap  - Docker  - Postman  - AWS  - Team Collaboration  - E-commerce Business Managment  - Git/ GitHub  
+     - Terrform - Ansible - Bash - Linux - DigitalOcean - CI/CD Pipelines - JavaScript  - React  - HTML  -CSS  - Agile Methodology Proficiency  - RESFTful API  - Node.js  - Express.js  - MySQL  - Mongo DB Atlas    - Bootstrap  - Docker  - Postman  - AWS  - Team Collaboration  - E-commerce Business Managment  - Git/ GitHub  
      - Problem Solving & Adaptability  - Scalabe Architecture Development  - DevOps  - Customer Service Excellence
 
 ### PROFESSIONAL EXPERIENCE
-Responsive Business Website Design
+Site Reliability Engineering Intern  
+Addteq | Remote | April 2025 - August 2025
 
-QuickStart Inc. | Remote | 2024
+- Built high-availability WordPress infrastructure for production environment using Terraform, Ansible, Apache, and MySQL on DigitalOcean.
+- Developed automated one-click recovery script reducing environment restore time from hours to minutes through snapshot automation and configuration management.
+- Provisioned QA testing environments by cloning production snapshots and configuring secure access protocols including SSH, PM2, and firewall rules.
+- Automated SSL certificate lifecycle management using acme.sh with DNS-01 challenge integration ensuring zero downtime.
+- Implemented load balancer failover configuration and multi-node deployments supporting high-availability requirements.
+- Deployed and validated multi-region infrastructure with comprehensive smoke testing for HTTP, SSH, MySQL, and application health checks.
+- Created technical documentation including deployment runbooks, disaster recovery procedures, and infrastructure architecture diagrams
 
-Built a professional website with responsive design, clear content, and strong collaboration.
-- Designed and built a responsive website using HTML, CSS, and Bootstrap to showcase business information.
-- Structured web pages with semantic HTML and styled them with advanced CSS techniques.
-- Incorporated Git and GitHub for version control and team collaboration.
+Software Engineering Professional Development 
+QuickStart Inc. | Remote | June 2024 - November 2024
 
+- Completed intensive full-stack software engineering training with hands-on experience in JavaScript, React, Node.js, and Express.js.
+- Built scalable web applications with secure API integration, authentication systems, and comprehensive CRUD functionality.
+- Developed task management and quiz platforms featuring dynamic search capabilities, real-time updates, and efficient data handling.
+- Applied Agile and Scrum methodologies for project management, version control with Git, and collaborative development workflows.
 
-Search-Optimized Web Application
+Founder/CEO 
+Baj Enterprise LLC | 2022 - Present
+- Launched and managed e-commerce business leveraging data analytics to optimize product offerings and streamline operations.
+- Increased sales by 10% through data-driven optimization strategies and reduced operational costs by 18% through supplier relationship management.
 
-QuickStart Inc. | Remote | 2024
-
-Built a search-enabled website combining front-end interactivity with back-end database handling for efficient content discovery.
-- Developed a dynamic website featuring a fully functional search engine for data retrieval and filtering.
-- Utilized JavaScript to implement interactive front-end functionality and back-end programming for database integration.
-- Enhanced user experience with intuitive search capabilities and navigation.
-
-Full-Stack Task Management Solution
-
-QuickStart Inc. | Remote | 2024
-
-Built a full-stack CRUD to-do list app using React, Node.js, and Express, with secure user authentication and a user-friendly interface.
-
-- Built a CRUD-based task management system using React, Node.js, and Express, allowing users to create, track, update, and complete tasks.
-- Implemented user authentication and role-based access for personalized task views and secure access.
-- Designed an intuitive UI with React components for seamless user interaction.
-
-Scalable Node.js API Development
-
-QuickStart Inc. | Remote | 2024
-
-Developed a quiz application to manage categorized questions, emphasizing full-stack development and scalable design.
-
-- Built a scalable Node.js application using Express for server-side functionality.
-- Developed API routes for handling HTTP requests and database operations.
-- Implemented middleware to enhance application performance and security.
 
 ### ADDITIONAL EXPERIENCE
 Founder / CEO
