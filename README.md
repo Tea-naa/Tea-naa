@@ -7,11 +7,11 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
 ---
 
 ### 🧠 Tech Stack
-     **Infrastructure:** Terraform • Ansible • Docker • Bash • AWS • DigitalOcean • CI/CD • Load Balancers  
-     **Development:** JavaScript • React • Node.js • Express • MySQL • REST APIs • HTML • CSS • Bootstrap
+    Infrastructure:   Terraform • Ansible • Docker • Bash • AWS • DigitalOcean • CI/CD • Load Balancers  
+    Development:      JavaScript • React • Node.js • Express • MySQL • REST APIs • HTML • CSS • Bootstrap
 
 ## 💼 Recent Experience
-    Site Reliability Engineering Intern | Addteq 
+    Site Reliability Engineering Intern | Addteq
     
     Converted a legacy WordPress site to high-availability architecture using Terraform & Ansible
     Automated disaster recovery (reduced restore time from hours to ~15 minutes!)
@@ -38,7 +38,8 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
 - I get unreasonably excited about automation scripts  
 - Currently helping a friend build their business website (always learning!)  
 > “The best time to start was yesterday. The second best time is now.”
-
+>
+  
 
 <!--
 **Tea-naa/Tea-naa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
