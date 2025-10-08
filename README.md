@@ -40,32 +40,33 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
 
 ---
 ## 💼 Recent Experience
-    Site Reliability Engineering Intern | Addteq
-    
-    Converted a legacy WordPress site to high-availability architecture using Terraform & Ansible
-    Automated disaster recovery (reduced restore time from hours to minutes!)
-    Deployed multi-region infrastructure and managed SSL automation
-    Basically learned to love infrastructure automation 🛠️
+*_Site Reliability Engineering Intern | Addteq | April 2025 - August 2025_*
+
+     • Converted a legacy WordPress site to high-availability architecture using Terraform & Ansible
+     • Automated disaster recovery (reduced restore time from hours to minutes!)
+     • Deployed multi-region infrastructure and managed SSL automation
+     • Basically learned to love infrastructure automation 🛠️
+
 ## 🚀 What I'm Working On
-    Building high-availability infrastructure and learning more about DevOps practices
-    Exploring container orchestration and cloud-native technologies
-    Creating full-stack applications that solve real problems
+    • Building high-availability infrastructure and learning more about DevOps practices
+    • Exploring container orchestration and cloud-native technologies
+    • Creating full-stack applications that solve real problems
 ## 🌱 Currently Learning
-    Kubernetes (next on my list!)
-    Advanced monitoring and observability
-    More Python for automation
+    • Kubernetes (next on my list!)
+    • Advanced monitoring and observability
+    • More Python for automation
 ---
 ### 📫 Let's Connect
-- **Portfolio:** [tina-bajwa.com](https://tina-bajwa.com)  
-- **LinkedIn:** [linkedin.com/in/tina-bajwa](https://linkedin.com/in/tina-bajwa)  
-- **Email:** [TinaMarie.Bajwa@gmail.com](mailto:TinaMarie.Bajwa@gmail.com)
+ **Portfolio:** [tina-bajwa.com](https://tina-bajwa.com)  
+ **LinkedIn:** [linkedin.com/in/tina-bajwa](https://linkedin.com/in/tina-bajwa)  
+ **Email:** [TinaMarie.Bajwa@gmail.com](mailto:TinaMarie.Bajwa@gmail.com)
 
 ---
 
 ### 💡 Fun Facts
-- Made the jump from hospitality to tech because I wanted to solve problems at scale  
-- I get unreasonably excited about automation scripts  
-- Building websites for friends — because why not keep learning
+  • Made the jump from hospitality to tech because I wanted to solve problems at scale  
+  • I get unreasonably excited about automation scripts  
+  • Building websites for friends — because why not keep learning
   
 > “The best time to start was yesterday. The second best time is now.”
 >
