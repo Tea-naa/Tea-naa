@@ -1,12 +1,9 @@
 
 <div align="center">
-
+     
 ![Hi, I'm Tina!](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=800&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Tina!+%F0%9F%91%8B)
-
-![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Site+Reliability+Engineer;Full+Stack+Developer;Infrastructure+Automation+Enthusiast)
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=800&lines=Automation+%E2%80%A2+Reliability+%E2%80%A2+Scalability+%E2%80%A2+Performance+%E2%80%A2+Innovation" alt="Values" />
-
+![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Full+Stack+Developer;Automation+Enthusiast)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=800&lines=Automation+%E2%80%A2+Infrastructure+%E2%80%A2+Scalability+%E2%80%A2+CI%2FCD+%E2%80%A2+Cloud" alt="Values" />
 </div>
 
 ## I'm passionate about building reliable, scalable systems and automating everything I can.  
