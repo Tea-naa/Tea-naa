@@ -49,12 +49,13 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
 
 ## 🚀 What I'm Working On
     • Building high-availability infrastructure and learning more about DevOps practices
-    • Exploring container orchestration and cloud-native technologies
+    • Creating a gym tracking app to manage my workouts and progress
     • Creating full-stack applications that solve real problems
+    
 ## 🌱 Currently Learning
-    • Kubernetes (next on my list!)
+    • Kubernetes - diving into container orchestration
     • Advanced monitoring and observability
-    • More Python for automation
+    • Expanding my cloud infrastructure skills
 ---
 ### 📫 Let's Connect
  **Portfolio:** [tina-bajwa.com](https://tina-bajwa.com)  
