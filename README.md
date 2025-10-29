@@ -45,14 +45,14 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
      • Basically learned to love infrastructure automation 🛠️
 
 ## 🚀 What I'm Working On
-    • Building high-availability infrastructure and learning more about DevOps practices
-    • Creating a gym tracking app to manage my workouts and progress
-    • Creating full-stack applications that solve real problems
+     • Building high-availability infrastructure and learning more about DevOps practices
+     • Developing a Server Tip Tracker — a hands-on full-stack project for learning Kubernetes and container orchestration
+     • Creating a gym tracking app to manage my workouts and progress
     
 ## 🌱 Currently Learning
-    • Kubernetes - diving into container orchestration
-    • Advanced monitoring and observability
-    • Expanding my cloud infrastructure skills
+     • Kubernetes — deploying and scaling real projects (like my Server Tip Tracker)
+     • Monitoring & Observability — Prometheus, Grafana, and alerting tools
+     • Cloud Infrastructure — strengthening automation across AWS and DigitalOcean
 ---
 ### 📫 Let's Connect
  **Portfolio:** [tina-bajwa.com](https://tina-bajwa.com)  
