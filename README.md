@@ -7,7 +7,8 @@
 </div>
 
 ## I'm passionate about building reliable, scalable systems and automating everything I can.  
-I recently transitioned from hospitality into tech (yes, really!) and discovered I love infrastructure work even more than coding.
+Cloud Engineering, DevOps, SRE, Full-Stack — I like figuring out how all the pieces fit together.
+
 
 ---
 
