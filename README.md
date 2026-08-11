@@ -11,7 +11,7 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
 
 ---
 
-### 🧠 Tech & Tools  
+###  Tech & Tools  
 
 <div align="center">
 
@@ -39,23 +39,51 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
 </div>
 
 ---
+
 ## 💼 Recent Experience
-*_Site Reliability Engineering Intern | Addteq | April 2025 - August 2025_*
 
-     • Converted a legacy WordPress site to high-availability architecture using Terraform & Ansible
-     • Automated disaster recovery (reduced restore time from hours to minutes!)
-     • Deployed multi-region infrastructure and managed SSL automation
-     • Basically learned to love infrastructure automation 🛠️
+ ### `Addteq` — Site Reliability Engineering Intern
 
-## 🚀 What I'm Working On
-     • Building high-availability infrastructure and learning more about DevOps practices
-     • Developing a Server Tip Tracker — a hands-on full-stack project for learning Kubernetes and container orchestration
-     • Creating a gym tracking app to manage my workouts and progress
+
+Terraform  ──►  Ansible  ──►  High Availability ──►  Disaster Recovery
+
+     • Converted a legacy WordPress environment toward high-availability architecture
+     • Automated disaster recovery, reducing restore time from hours → minutes
+     • Worked with infrastructure provisioning, SSL automation, Linux systems, and cloud infrastructure
+
+### `SuppliFlex` — Cloud / DevOps Engineering
+
+       Worked across AWS, Infrastructure as Code, Docker, CI/CD, backend systems, authentication, and engineering coordination for a cloud-native B2B supply-chain platform.
+
+## 🚀 Projects
+<details> <summary><b>🚚 SuppliFlex</b> — Cloud / SaaS</summary> <br>
+
+Cloud-native B2B supply-chain platform designed to centralize inventory, orders, shipments, and operational data.
+
+AWS Terraform Docker PostgreSQL Prisma CI/CD
+
+<a href="https://tina-bajwa.com/">→ View on Portfolio</a>
+
+</details> <br> <details> <summary><b>💸 TipTrack</b> — Full Stack / Kubernetes</summary> <br>
+
+Full-stack application built to track server tips while exploring containerization and Kubernetes.
+
+React Node.js Express MongoDB Docker Kubernetes
+
+<a href="https://tina-bajwa.com/">→ View on Portfolio</a>
+
+</details> <br> <details> <summary><b>🛠️ High-Availability Infrastructure</b> — SRE</summary> <br>
+
+Infrastructure automation and disaster recovery work completed during my SRE internship.
+
+Terraform Ansible Linux DigitalOcean MySQL
+
+Recovery time: hours → minutes
+
+</details>
     
 ## 🌱 Currently Learning
-     • Kubernetes — deploying and scaling real projects (like my Server Tip Tracker)
-     • Monitoring & Observability — Prometheus, Grafana, and alerting tools
-     • Cloud Infrastructure — strengthening automation across AWS and DigitalOcean
+     Kubernetes  •  Observability  •  Cloud Architecture  •  SRE  •  Infrastructure Automation
 ---
 ### 📫 Let's Connect
  **Portfolio:** [tina-bajwa.com](https://tina-bajwa.com)  
@@ -64,27 +92,20 @@ I recently transitioned from hospitality into tech (yes, really!) and discovered
 
 ---
 
-### 💡 Fun Facts
-  • Made the jump from hospitality to tech because I wanted to solve problems at scale  
-  • I get unreasonably excited about automation scripts  
-  • Building websites for friends — because why not keep learning
+<details> <summary><b>💡 A little more about me</b></summary> <br>
+
+→ Former hospitality professional
+<br>
+→ Unreasonably excited by automation
+<br>
+→ Building is my favorite way to learn
+<br>
+→ "It works on my machine" is not a deployment strategy
+</details>
   
 > “The best time to start was yesterday. The second best time is now.”
 >
 
-
-
-<!--
-**Tea-naa/Tea-naa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+build → break → learn → automate → repeat
+<br> <a href="https://tina-bajwa.com/"> <img src="https://img.shields.io/badge/SEE_WHAT_I_BUILD-7C5CFC?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> 
