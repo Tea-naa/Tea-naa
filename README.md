@@ -107,4 +107,6 @@ Recovery time: hours → minutes
 
 <div align="center">
 build → break → learn → automate → repeat
-<br> <a href="https://tina-bajwa.com/"> <img src="https://img.shields.io/badge/SEE_WHAT_I_BUILD-7C5CFC?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> 
+<br> <a href="https://tina-bajwa.com/">
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a> </div> 
