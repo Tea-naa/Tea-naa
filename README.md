@@ -84,11 +84,6 @@ Recovery time: hours → minutes
     
 ## 🌱 Currently Learning
      Kubernetes  •  Observability  •  Cloud Architecture  •  SRE  •  Infrastructure Automation
----
-### 📫 Let's Connect
- **Portfolio:** [tina-bajwa.com](https://tina-bajwa.com)  
- **LinkedIn:** [linkedin.com/in/tina-bajwa](https://linkedin.com/in/tina-bajwa)  
- **Email:** [TinaMarie.Bajwa@gmail.com](mailto:TinaMarie.Bajwa@gmail.com)
 
 ---
 
