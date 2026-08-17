@@ -7,8 +7,7 @@
 </div>
 
 ## I'm passionate about building reliable, scalable systems and automating everything I can.  
-Cloud Engineering, DevOps, SRE, Full-Stack — I like figuring out how all the pieces fit together.
-
+Cloud Engineering, DevOps, SRE, Full-Stack — I build secure cloud infrastructure and automated pipelines that bridge developer code and production stability.
 
 ---
 
@@ -16,23 +15,23 @@ Cloud Engineering, DevOps, SRE, Full-Stack — I like figuring out how all the p
 
 <div align="center">
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalocean&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF00FF.svg?logo=azuredevops&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?logo=prisma&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalocean&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FF00FF.svg?logo=azuredevops&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?logo=prisma&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
@@ -40,67 +39,74 @@ Cloud Engineering, DevOps, SRE, Full-Stack — I like figuring out how all the p
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
-
 </div>
 
 ---
 
 ## 💼 Recent Experience
 
- ### `Addteq` — Site Reliability Engineering Intern
+### **SuppliFlex** — Cloud / DevOps Engineering Intern
 
+* **Standardized infrastructure provisioning** via custom Terraform IaC modules for an enterprise Amazon Connect ecosystem.
+* **Hardened platform security layers** by configuring and staging 6 core AWS services (*Cognito, IAM Identity Center, WorkMail, S3, CloudFront, Route 53*).
+* **Restored pilot onboarding workflows** by diagnosing and debugging complex JWT and OAuth 2.0 integration blocks across 4 distinct SaaS platforms (*Shopify, QuickBooks, Zoho, Xero*).
 
-Terraform  ──►  Ansible  ──►  High Availability ──►  Disaster Recovery
+### **Addteq** — Site Reliability Engineering Intern
 
-     • Converted a legacy WordPress environment toward high-availability architecture
-     • Automated disaster recovery, reducing restore time from hours → minutes
-     • Worked with infrastructure provisioning, SSL automation, Linux systems, and cloud infrastructure
+* **Reduced critical environment restore times by 98% (from 3 hours to 3 minutes)** by constructing idempotent Ansible disaster recovery playbooks.
+* **Eliminated production configuration drift** across 3 distinct environment tiers (*DEV, QA, PROD*) using automated Terraform deployments.
+* **Maintained database high availability** for core web infrastructure by managing a MySQL replica cluster backed by multi-dimensional infrastructure health alerts.
 
-### `SuppliFlex` — Cloud / DevOps Engineering
+---
 
-       Worked across AWS, Infrastructure as Code, Docker, CI/CD, backend systems, authentication, and engineering coordination for a cloud-native B2B supply-chain platform.
+## 🚀 Key Open Source Projects
 
-## 🚀 Projects
-<details> <summary><b>🚚 SuppliFlex</b> — Cloud / SaaS</summary> <br>
+<details> <summary><b>🐳 Cloud-Native Application Pipelines</b> — CI/CD & Orchestration</summary> <br>
 
-Cloud-native B2B supply-chain platform designed to centralize inventory, orders, shipments, and operational data.
+Production-ready implementation of automated infrastructure delivery pipelines.
+* **CI/CD:** Configured automated GitHub Actions workflows to validate codebase changes, compile secure container builds, and trigger rolling zero-downtime microservice deployments.
+* **Orchestration:** Maintained application resilience across isolated environments utilizing Kubernetes (Minikube) cluster configurations, persistent volumes, and health-check probes.
 
-AWS Terraform Docker PostgreSQL Prisma CI/CD
+`Docker` `Kubernetes` `GitHub Actions` `Nginx` `Node.js`
 
-<a href="https://tina-bajwa.com/">→ View on Portfolio</a>
+</details> <br>
 
-</details> <br> <details> <summary><b>💸 TipTrack</b> — Full Stack / Kubernetes</summary> <br>
+<details> <summary><b>🛠️ Infrastructure as Code Infrastructure Hub</b> — Automation & SRE</summary> <br>
 
-Full-stack application built to track server tips while exploring containerization and Kubernetes.
+Dedicated repository containing modular infrastructure patterns matching high-availability architectures.
+* **Disaster Recovery:** Showcases automated one-command recovery scripts that cut active recovery timeframes to under 3 minutes.
+* **Security Automation:** Provisions secure network perimeters via programmatic Linux firewall management and fully automated SSL certificate life-cycle hooks.
 
-React Node.js Express MongoDB Docker Kubernetes
+`Terraform` `Ansible` `AWS` `Linux Architecture` `MySQL`
 
-<a href="https://tina-bajwa.com/">→ View on Portfolio</a>
+</details> <br>
 
-</details> <br> <details> <summary><b>🛠️ High-Availability Infrastructure</b> — SRE</summary> <br>
+<details> <summary><b>💸 TipTrack</b> — Full Stack Cloud Architecture</summary> <br>
 
-Infrastructure automation and disaster recovery work completed during my SRE internship.
+Three-tier cloud architecture serving secure web applications. Includes microservices decoupled for high scalability.
+* **Security:** Configured standard role-based access tokens via stateless tokenized JWT systems.
+* **Database Layer:** Architected robust transactional data patterns backed by high-performance index clustering.
 
-Terraform Ansible Linux DigitalOcean MySQL
+`React` `NestJS` `TypeScript` `PostgreSQL` `Prisma ORM`
 
-Recovery time: hours → minutes
+<a href="https://tina-bajwa.com/">→ View Live Portfolio</a>
 
 </details>
     
-## 🌱 Currently Learning
-     Kubernetes  •  Observability  •  Cloud Architecture  •  SRE  •  Infrastructure Automation
+## 🌱 Currently Scaling Skills In
+     Advanced Cloud Architecture (AWS SAA-C03) • Kubernetes Orchestration • Infrastructure Observability • GitOps Pipelines
 
 ---
 
 <details> <summary><b>💡 A little more about me</b></summary> <br>
 
-→ Former hospitality professional
-<br>
-→ Unreasonably excited by automation
-<br>
-→ Building is my favorite way to learn
-<br>
-→ "It works on my machine" is not a deployment strategy
+→ **Career switcher:** Came to software engineering from hospitality and found my niche in cloud infrastructure and automation.
+
+→ **Builder at heart:** I enjoy turning ideas into real, usable projects — including websites I’ve built for friends.
+
+→ **Learn by doing:** I understand technology best when I can build it, break it, troubleshoot it, and improve it.
+
+→ **Automation enthusiast:** Always looking for ways to make repetitive work simpler, faster, and more reliable.
 </details>
   
 > “The best time to start was yesterday. The second best time is now.”
@@ -110,4 +116,4 @@ Recovery time: hours → minutes
 build → break → learn → automate → repeat
 <br> <a href="https://tina-bajwa.com/">
 <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a> </div> 
+</a> </div>
