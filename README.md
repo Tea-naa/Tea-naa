@@ -94,7 +94,7 @@ Three-tier cloud architecture serving secure web applications. Includes microser
 </details>
     
 ## 🌱 Currently Scaling Skills In
-     Advanced Cloud Architecture (AWS SAA-C03) • Kubernetes Orchestration • Infrastructure Observability • GitOps Pipelines
+     Advanced Cloud Architecture (AWS SAA-C03) • Kubernetes Orchestration • Infrastructure Observability • DevOps BootCamp
 
 ---
 
