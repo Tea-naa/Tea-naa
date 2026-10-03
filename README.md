@@ -7,7 +7,7 @@
 </div>
 
 ## I'm passionate about building reliable, scalable systems and automating everything I can.  
-Cloud Engineering, DevOps, SRE, Full-Stack — I build secure cloud infrastructure and automated pipelines that bridge developer code and production stability.
+Cloud Engineering, DevOps, SRE, Full-Stack — focused on infrastructure automation, reliability, CI/CD, and building systems that move code from development to production.
 
 ---
 
@@ -47,68 +47,75 @@ Cloud Engineering, DevOps, SRE, Full-Stack — I build secure cloud infrastructu
 
 ### **SuppliFlex** — Cloud / DevOps Engineering Intern
 
-* **Standardized infrastructure provisioning** via custom Terraform IaC modules for an enterprise Amazon Connect ecosystem.
-* **Hardened platform security layers** by configuring and staging 6 core AWS services (*Cognito, IAM Identity Center, WorkMail, S3, CloudFront, Route 53*).
-* **Restored pilot onboarding workflows** by diagnosing and debugging complex JWT and OAuth 2.0 integration blocks across 4 distinct SaaS platforms (*Shopify, QuickBooks, Zoho, Xero*).
+* **Supported AWS staging infrastructure** across ECS, RDS, ALB, S3, CloudFront, Route 53, Redis, Secrets Manager, and Cognito while troubleshooting deployment and application integration issues.
+* **Diagnosed authentication and integration failures** across Cognito, JWT, and OAuth 2.0 workflows for Shopify, QuickBooks, Xero, and Zoho.
+* **Supported staging deployments and release validation** through ECS task definition updates, environment configuration, application health checks, and container/runtime troubleshooting.
 
 ### **Addteq** — Site Reliability Engineering Intern
 
-* **Reduced critical environment restore times by 98% (from 3 hours to 3 minutes)** by constructing idempotent Ansible disaster recovery playbooks.
-* **Eliminated production configuration drift** across 3 distinct environment tiers (*DEV, QA, PROD*) using automated Terraform deployments.
-* **Maintained database high availability** for core web infrastructure by managing a MySQL replica cluster backed by multi-dimensional infrastructure health alerts.
+* **Automated disaster recovery and infrastructure provisioning** using Terraform, Ansible, and Bash, reducing environment recovery from hours to minutes.
+* **Built and supported a high-availability web architecture** using DigitalOcean load balancing, multiple Ubuntu web nodes, and a managed MySQL database cluster.
+* **Improved production reliability and security** through automated SSL certificate management, health checks, firewall rules, Fail2ban, ModSecurity, and infrastructure monitoring.
 
 ---
 
-## 🚀 Key Open Source Projects
+## 🚀 Featured Projects
 
-<details> <summary><b>🐳 Cloud-Native Application Pipelines</b> — CI/CD & Orchestration</summary> <br>
+<details> <summary><b>🐳 DevOps Bootcamp Projects</b> — Containers, Cloud & Deployment</summary> <br>
 
-Production-ready implementation of automated infrastructure delivery pipelines.
-* **CI/CD:** Configured automated GitHub Actions workflows to validate codebase changes, compile secure container builds, and trigger rolling zero-downtime microservice deployments.
-* **Orchestration:** Maintained application resilience across isolated environments utilizing Kubernetes (Minikube) cluster configurations, persistent volumes, and health-check probes.
+Hands-on DevOps projects focused on containerization, cloud infrastructure, artifact management, and deployment automation.
 
-`Docker` `Kubernetes` `GitHub Actions` `Nginx` `Node.js`
+* **Containers:** Containerized Java/Spring Boot and Node.js applications using Docker and Docker Compose with environment variables, networking, persistent volumes, and health checks.
+* **Cloud Deployment:** Deployed applications to DigitalOcean Linux servers, configuring runtime dependencies, network access, and remote deployments via SSH.
+* **Artifact Management:** Published and retrieved application artifacts through Nexus repositories and automated deployment of the latest application version using Bash.
 
-</details> <br>
-
-<details> <summary><b>🛠️ Infrastructure as Code Infrastructure Hub</b> — Automation & SRE</summary> <br>
-
-Dedicated repository containing modular infrastructure patterns matching high-availability architectures.
-* **Disaster Recovery:** Showcases automated one-command recovery scripts that cut active recovery timeframes to under 3 minutes.
-* **Security Automation:** Provisions secure network perimeters via programmatic Linux firewall management and fully automated SSL certificate life-cycle hooks.
-
-`Terraform` `Ansible` `AWS` `Linux Architecture` `MySQL`
+`Docker` `Docker Compose` `Linux` `DigitalOcean` `Bash` `Nexus` `Node.js` `Java`
 
 </details> <br>
 
-<details> <summary><b>💸 TipTrack</b> — Full Stack Cloud Architecture</summary> <br>
+<details> <summary><b>📊 Observability Mini-Lab</b> — Infrastructure, CI/CD & Monitoring</summary> <br>
 
-Three-tier cloud architecture serving secure web applications. Includes microservices decoupled for high scalability.
-* **Security:** Configured standard role-based access tokens via stateless tokenized JWT systems.
-* **Database Layer:** Architected robust transactional data patterns backed by high-performance index clustering.
+Built a small end-to-end DevOps environment to practice infrastructure provisioning, automated deployment, and application monitoring.
 
-`React` `NestJS` `TypeScript` `PostgreSQL` `Prisma ORM`
+* **Infrastructure:** Provisioned AWS EC2 infrastructure and security groups using Terraform and automated server configuration with Ansible.
+* **CI/CD:** Built GitHub Actions workflows to build and publish Docker images and deploy application updates.
+* **Monitoring:** Configured Prometheus and Node Exporter to collect infrastructure metrics from the deployed environment.
+
+`AWS` `Terraform` `Ansible` `Docker` `GitHub Actions` `Prometheus` `Node.js`
+
+</details> <br>
+
+<details> <summary><b>💸 TipTrack</b> — Full-Stack Application</summary> <br>
+
+Full-stack application for tracking shifts, tips, and earnings with user authentication and persistent data.
+
+* **Authentication:** Implemented signup and login with JWT-based authentication and protected user sessions.
+* **Frontend & API:** Built a React/Vite frontend connected to an Express backend through REST API endpoints.
+* **Data:** Integrated persistent application data with MongoDB for user and shift information.
+
+`React` `Vite` `Node.js` `Express` `JWT` `MongoDB`
 
 <a href="https://tina-bajwa.com/">→ View Live Portfolio</a>
 
 </details>
     
-## 🌱 Currently Scaling Skills In
-     Advanced Cloud Architecture (AWS SAA-C03) • Kubernetes Orchestration • Infrastructure Observability • DevOps BootCamp
+## 🌱 Currently Learning
+     Kubernetes • Observability • CI/CD • Infrastructure as Code • Cloud Architecture • TechWorld with Nana DevOps Bootcamp
 
 ---
 
 <details> <summary><b>💡 A little more about me</b></summary> <br>
 
-→ **Career switcher:** Came to software engineering from hospitality and found my niche in cloud infrastructure and automation.
+→ **Career switcher:** Came to software engineering from hospitality and found my niche in cloud infrastructure, reliability, and automation.
 
-→ **Builder at heart:** I enjoy turning ideas into real, usable projects — including websites I’ve built for friends.
+→ **Builder at heart:** I enjoy turning ideas into real, usable projects — from full-stack applications to cloud infrastructure.
 
 → **Learn by doing:** I understand technology best when I can build it, break it, troubleshoot it, and improve it.
 
 → **Automation enthusiast:** Always looking for ways to make repetitive work simpler, faster, and more reliable.
+
 </details>
-  
+
 > “The best time to start was yesterday. The second best time is now.”
 >
 
